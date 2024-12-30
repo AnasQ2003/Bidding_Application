@@ -1,0 +1,1 @@
+This Project allows user to put their items for bidding as well as users can see those final results. This is a basic GUI app to meet the needs. Users are created as a hard coated unique name for themselves. Data gets validated via database and prompts the user if it already exists.
